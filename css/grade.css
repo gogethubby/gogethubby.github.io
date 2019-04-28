@@ -1,0 +1,17 @@
+#background-image: -webkit-gradient(
+	linear,
+	right top,
+	right top,
+	color-stop(0, rgb(245, 245, 245)),
+	color-stop(0.77, rgb(3, 3, 0))
+);
+background-image: -o-linear-gradient(right top, rgb(245, 245, 245) 0%, rgb(3, 3, 0) 77%);
+background-image: -moz-linear-gradient(right top, rgb(245, 245, 245) 0%, rgb(3, 3, 0) 77%);
+background-image: -webkit-linear-gradient(right top, rgb(245, 245, 245) 0%, rgb(3, 3, 0) 77%);
+background-image: -ms-linear-gradient(right top, rgb(245, 245, 245) 0%, rgb(3, 3, 0) 77%);
+background-image: linear-gradient(to right top, rgb(245, 245, 245) 0%, rgb(3, 3, 0) 77%);#gradients {
+	background-image: url(einstein_gen_of_idiots.jpg);
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 800px;
+}
