@@ -1,0 +1,23 @@
+ body{
+  background-color: #c1c5cc;
+  
+}
+
+.woids{
+  padding: 0;
+  border:0;
+  margin-top: 10px;
+  position:relative;
+  text-align: center;
+  font-family: OratorStd;
+  font-size:44; 
+}
+
+.woids2{
+  padding: 0;
+  border:0;
+  margin-top: 20px;
+  text-align: center;
+  font-family: OratorStd;
+  font-size:16; 
+}

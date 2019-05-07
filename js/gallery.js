@@ -1,0 +1,1 @@
+TweenMax.to(".woids", 4, {x:20, ease:Elastic.easeOut.config (1, .04)});
